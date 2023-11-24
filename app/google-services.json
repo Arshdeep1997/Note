@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "843778014949",
+    "project_id": "cloudarshdeep",
+    "storage_bucket": "cloudarshdeep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843778014949:android:7bafd405246d3105dcde0c",
+        "android_client_info": {
+          "package_name": "com.arshdeep.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843778014949-hg0k85j39qn6urcngac6ii1e54h1urbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_h53IOcjWX3_BGXpOohG-pk2o3R_FTag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843778014949-hg0k85j39qn6urcngac6ii1e54h1urbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843778014949:android:504f0e7eafa95e55dcde0c",
+        "android_client_info": {
+          "package_name": "com.arshdeep.note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843778014949-hg0k85j39qn6urcngac6ii1e54h1urbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_h53IOcjWX3_BGXpOohG-pk2o3R_FTag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843778014949-hg0k85j39qn6urcngac6ii1e54h1urbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
